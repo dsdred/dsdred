@@ -5,7 +5,7 @@ I have been programming in "1C: Enterprise" language for more than 11 years. In 
 
 **I am Infostart Awards 2018 prizewinner in "Discovery of the Year".**
 
-I am three times prizewinner of the following:
+I am three times nominated of the following:
 - 2022 Nomination for contribution in the field of “DBMS Administration. HighLoad optimization"
 - 2023 Nomination for contribution in the field of “DBMS Administration. HighLoad optimization"
 - 2023 Nomination for contribution in the field of “Integration and Data Exchange”
@@ -28,7 +28,7 @@ I am three times prizewinner of the following:
 
 **Стал лауреатом премии Infostart Awards 2018 в номинации «Открытие года».**
 
-Трижды становился лауреатом:
+Трижды становился номинантом:
 
 - 2022 Номинация за вклад в области «Администрирование СУБД. Оптимизация HighLoad"
 - 2023 Номинация за вклад в области «Администрирование СУБД. Оптимизация HighLoad"
