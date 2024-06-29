@@ -2,11 +2,11 @@
 
 #### I have been working in IT since 2006.
 
-I have been programming in "1C: Enterprise" language for more than 11 years. In my leasure time I prefer programming, writing articles, studying other programm languages and carrying out various experiments. I am known as the author of more than 40 articles on the website infostart.ru.
+I have been programming in "1C: Enterprise" language for more than 12 years. In my leasure time I prefer programming, writing articles, studying other programm languages and carrying out various experiments. I am known as the author of more than 40 articles on the website infostart.ru.
 
-**I am Infostart Awards 2018 prizewinner in "Discovery of the Year".**
+**🏆I am Infostart Awards 2018 prizewinner in "Discovery of the Year".**
 
-I am three times nominated of the following:
+Nomination:
 
 - 2022 Nomination for contribution in the field of "DBMS Administration. HighLoad optimization"
 - 2023 Nomination for contribution in the field of "DBMS Administration. HighLoad optimization"
@@ -24,11 +24,11 @@ I am three times nominated of the following:
   <p>Привет, я Дмитрий 👋</p>
   <p>Работаю в IT с 2006 года.
 
-Программирую на языке 1С Предприятие более 11 лет. В свободное время программирую, пишу статьи, изучаю другие языки программирования и провожу различные эксперименты. Известен как автор более 40 статей на сайте infostart.ru.
+Программирую на языке 1С Предприятие более 12 лет. В свободное время программирую, пишу статьи, изучаю другие языки программирования и провожу различные эксперименты. Известен как автор более 40 статей на сайте infostart.ru.
 
-**Стал лауреатом премии Infostart Awards 2018 в номинации «Открытие года».**
+**🏆Стал лауреатом премии Infostart Awards 2018 в номинации «Открытие года».**
 
-Трижды становился номинантом:
+Номинация:
 
 - 2022 Номинация за вклад в области "Администрирование СУБД. Оптимизация HighLoad"
 - 2023 Номинация за вклад в области "Администрирование СУБД. Оптимизация HighLoad"
