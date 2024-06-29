@@ -1,4 +1,5 @@
 ### Hello, I'm Dmitry👋
+
 #### I have been working in IT since 2006.
 
 I have been programming in "1C: Enterprise" language for more than 11 years. In my leasure time I prefer programming, writing articles, studying other programm languages and carrying out various experiments. I am known as the author of more than 40 articles on the website infostart.ru.
@@ -6,18 +7,17 @@ I have been programming in "1C: Enterprise" language for more than 11 years. In 
 **I am Infostart Awards 2018 prizewinner in "Discovery of the Year".**
 
 I am three times nominated of the following:
-- 2022 Nomination for contribution in the field of “DBMS Administration. HighLoad optimization"
-- 2023 Nomination for contribution in the field of “DBMS Administration. HighLoad optimization"
-- 2023 Nomination for contribution in the field of “Integration and Data Exchange”
 
+- 2022 Nomination for contribution in the field of "DBMS Administration. HighLoad optimization"
+- 2023 Nomination for contribution in the field of "DBMS Administration. HighLoad optimization"
+- 2023 Nomination for contribution in the field of "Integration and Data Exchange"
 
 ---
 
 - 🔭 Currently I am working on integration subsystem with 1C and other projects.
-- 🌱 I am open-minded and constantly learn something new. 
-- 💬 I am always outer-directed and straight to discussion. 
+- 🌱 I am open-minded and constantly learn something new.
+- 💬 I am always outer-directed and straight to discussion.
 - ⚡️An interesting fact about my work: I am re-coding one open-source subsystem for the third time. I have completed 80% and realized that I didn’t like the result, so I rewrote the code. Then I figured out that the result wasn't perfect, so I rewrote it once more. And only the third time gave me realization that I needed to release it just as it was created, otherwise the development would not make sense.
-
 
 <details>
   <summary>Перевод на русский</summary>
@@ -30,9 +30,9 @@ I am three times nominated of the following:
 
 Трижды становился номинантом:
 
-- 2022 Номинация за вклад в области «Администрирование СУБД. Оптимизация HighLoad"
-- 2023 Номинация за вклад в области «Администрирование СУБД. Оптимизация HighLoad"
-- 2023 Номинация за вклад в области «Интеграция и обмен данными»
+- 2022 Номинация за вклад в области "Администрирование СУБД. Оптимизация HighLoad"
+- 2023 Номинация за вклад в области "Администрирование СУБД. Оптимизация HighLoad"
+- 2023 Номинация за вклад в области "Интеграция и обмен данными"
 
 ---
 
