@@ -4,7 +4,10 @@
 
 I have been programming in "1C: Enterprise" language for more than 12 years. In my leasure time I prefer programming, writing articles, studying other programm languages and carrying out various experiments. I am known as the author of more than 40 articles on the website infostart.ru.
 
-**🏆I am Infostart Awards 2018 prizewinner in "Discovery of the Year".**
+**Winner:**
+
+- **🏆Infostart Awards 2018 prizewinner in "Discovery of the Year".**
+- **🏆Infostart Awards 2024 prizewinner in "Best author of an article for developers".**
 
 Nomination:
 
@@ -26,7 +29,10 @@ Nomination:
 
 Программирую на языке 1С Предприятие более 12 лет. В свободное время программирую, пишу статьи, изучаю другие языки программирования и провожу различные эксперименты. Известен как автор более 40 статей на сайте infostart.ru.
 
-**🏆Лауреат премии Infostart Awards 2018 в номинации «Открытие года».**
+**Лауреат:**
+
+- **🏆Infostart Awards 2018 в номинации «Открытие года».**
+- **🏆Infostart Awards 2024 в номинации «Лучший автор статьи для разработчиков».**
 
 Номинация:
 
