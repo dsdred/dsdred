@@ -14,7 +14,7 @@ const russianAuthorData = `
   <h4>Лауреат:</h4>
   <ul>
     <li>🏆 Infostart Awards 2018 в номинации «Открытие года».</li>
-    <li>🏆 Infostart Awards 2024 prizewinner in "Best author of an article for developers".</li>
+    <li>🏆 Infostart Awards 2024 в номинации "Лучший автор статьи для разработчиков".</li>
   </ul>
 
   <h4>Номинация:</h4>
